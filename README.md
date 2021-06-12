@@ -1,3 +1,8 @@
+# monsters-rolodex
+
+This project is based off of coursework for [Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)](https://github.com/facebook/create-react-app) by Andrei Neagoie and Yihua Zhang.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
