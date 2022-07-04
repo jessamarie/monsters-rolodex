@@ -1,10 +1,16 @@
-import React from 'react';
-import './card.styles.css'
+import './card.styles.css';
 
-export const Card = (props) => (
+const Card = ({ id, name, email }) => {
+  return (
     <div className='card-container'>
-        <img alt='monster' src={`https://robohash.org/${props.monster.id}?set=set2&size=180x180`}></img>
-        <h2>{props.monster.name}</h2>
-        <p>{props.monster.email}</p>
+      <img
+        alt={`monster ${name}`}
+        src={`https://robohash.org/${id}?set=set2&size=180x180`}
+      ></img>
+      <h2>{name}</h2>
+      <p>{email}</p>
     </div>
-)
+  );
+};
+
+export default Card;
