@@ -1,6 +1,6 @@
 # monsters-rolodex
 
-This project is based off the coursework in [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](https://www.udemy.com/course/complete-react-developer-zero-to-mastery) by Andrei Neagoie and Yihua Zhang.
+This project is based off the coursework in [Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)](https://zerotomastery.io/courses/learn-react/) by Andrei Neagoie and Yihua Zhang.
 
 # Getting Started with Create React App
 
